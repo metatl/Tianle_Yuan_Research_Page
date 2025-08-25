@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Tianle Yuan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Studies climate physics, engineering and AI/ML in climate/"
   location         : "MD, USA"
   employer         : "NASA GSFC/ UMBC GESTAR-II"
   uri              : # URL
@@ -37,10 +37,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=Y8jCvxAAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-2187-3017"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Tianle-Yuan-2"
   scopus           : # URL
 
   # Repositories and software development
