@@ -13,7 +13,7 @@ title                    : "Tianle Yuan / Research Page"
 title_separator          : "-"
 name                     : &name "Tianle Yuan"
 description              : &description "Senior Research Scientist at the intersection of Climate and ML/AI"
-url                      : "https://metatl.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://metatl.github.io/Tianle_Yuan_Research_Page/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
