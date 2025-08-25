@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Tianle Yuan"
   pronouns         : # example: "she/her"  
-  bio              : "Studies climate physics, engineering and AI/ML in climate/"
+  bio              : "Climate physics, climate engineering and applied AI/ML in climate/"
   location         : "MD, USA"
   employer         : "NASA GSFC/ UMBC GESTAR-II"
   uri              : # URL
@@ -47,13 +47,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
